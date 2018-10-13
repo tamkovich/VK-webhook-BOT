@@ -1,0 +1,7 @@
+token: bc869bda69c52c1e59e33d5a5162f9f528eafab9c138f8b24f9bacd821f1c2f97d3c27a035c33e1649a71
+confirmation_token: aace8d4b
+access_token: runBOYrun
+
+app:
+  host: 0.0.0.0
+  port: 5228
