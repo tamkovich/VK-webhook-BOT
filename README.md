@@ -1,5 +1,7 @@
 # Vk Bot with Webhooks
 
+You can read about few features in this app [here on habr.com](https://habr.com/post/326898/) by [strorinWind](https://github.com/strorinWind/bot) 
+
 Here is the file structure:
 
 ```bash
